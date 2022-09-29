@@ -8,4 +8,4 @@
 >git status
 >git add .
 >git commit -m "oerogsos" -m "hhoogjgi"
->git push
+>git push origin master
