@@ -58,7 +58,19 @@
 >git diff
 >git commit -am "updated with master"
 
-
+#UNDO
+>git add file
+>git status
+>git reset file (or) git reset
+>git add file
+>git commit -m "oooovn"
+>git status
+>git reset HEAD~1
+>git status
+>git diff
+>git log
+>git reset hashofcommitcode(unstage)
+>git reset --hard hashofcommitcode
 
 
 
